@@ -8,4 +8,4 @@ Grupo de Diplomado AI &amp; DL de la Universidad Nacional (Grupo 11)
 ## Integrantes
 
 * Wilgen Correa [@wilgenc](https://github.com/wilgenc)
-* Wilgen Correa [@samtux](https://github.com/samtux)
+* Samuel Mesa [@samtux](https://github.com/samtux)
